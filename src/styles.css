@@ -87,3 +87,6 @@ main{max-width:var(--max-width);margin:28px auto;padding:0 16px}
 
 /* Accessibility: focus styles for links */
 a:focus{outline:3px solid var(--accent-2);outline-offset:3px}
+
+/* Texto de agradecimiento en el pie */
+.gracias{color:#1e90ff;font-weight:600;margin-top:6px;font-size:1rem}
