@@ -89,4 +89,11 @@ main{max-width:var(--max-width);margin:28px auto;padding:0 16px}
 a:focus{outline:3px solid var(--accent-2);outline-offset:3px}
 
 /* Texto de agradecimiento en el pie */
-.gracias{color:#1e90ff;font-weight:600;margin-top:6px;font-size:1rem}
+.gracias{
+  color:#1e90ff;
+  font-weight:700;
+  margin-top:8px;
+  font-size:1.05rem;
+  text-transform:uppercase;
+  letter-spacing:0.6px;
+}
